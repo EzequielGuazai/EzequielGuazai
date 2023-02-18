@@ -28,8 +28,8 @@
 </p>
 
 <h3 align="left">GuitHub Stats:</h3>
-<div>
+<p>
   <a href="https://github.com/EzequielGuazai/">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=EzequielGuazai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGuazai&layout=compact&theme=dracula">
-</div>
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=EzequielGuazai&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGuazai&layout=compact&hide_border=true&theme=tokyonight">
+</p>
