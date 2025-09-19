@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Ezequiel Guazai</h1>
-<h3 align="center">💻 Software Engineer | 🌐 Full-Stack Developer | 🚀 Startup Builder</h3>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Startup Builder | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EzequielGuazai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,29 +13,47 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Graduated in **Computer Engineering & Telecommunications (ISUTC)**  
-- 🔭 Currently building **Libuku** (buy/sell/trade books in Mozambique)  
+- 🎓 **Computer Engineering & Telecommunications (ISUTC)**  
+- 🔭 Building **[Libuku](#)** (marketplace de livros em Moçambique)  
 - 🎮 Founder of **GG Lounge** (gaming & entertainment space)  
-- 👯 Open to collaborate on **Web, Mobile & Startup projects**  
-- 💬 Ask me about **React, Node.js, Flutter, Firebase, and Full-Stack Development**  
-- 📫 Reach me at **guazaidev@gmail.com**
+- 💡 Paixão por **Startups, Full-Stack & UI/UX**  
+- 💬 Techs: **React, Node.js, Flutter, Firebase, MySQL**  
+- 📫 Contact: **guazaidev@gmail.com**
 
 ---
 
 ### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://fb.com/ezequielguazai" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://instagram.com/ezequiel_guazai" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.youtube.com/@ezequielguazai" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
-  <a href="mailto:guazaidev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<p align="center">
+  <a href="https://fb.com/ezequielguazai"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://instagram.com/ezequiel_guazai"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.youtube.com/@ezequielguazai"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="mailto:guazaidev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,illustrator,js,ts,java,html,css,react,nodejs,mysql,vite,blender,matlab,ps,php,py" />
+
+**Frontend:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,vite,html,css,js,ts" />
 </p>
+
+**Backend & Databases:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,firebase,mysql,py,java" />
+</p>
+
+**Design & Others:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=illustrator,ps,blender,matlab,androidstudio" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+- 📚 **Libuku** – Marketplace de livros em Moçambique  
+- 🎮 **GG Lounge** – Espaço de gaming & entretenimento  
 
 ---
 
